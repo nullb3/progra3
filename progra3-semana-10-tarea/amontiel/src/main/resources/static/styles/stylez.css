@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-image:url("bc.jpg");
+    background-size: 100%;
+}
+
+h1 {
+    color: #423399;
+    text-align: center;
+}
+
+h2 {
+    color: #669933;
+    text-align: center;
+}
+
+img{
+    height:300px;
+    margin:auto;
+    display:block;
+    border-radius:25px;
+    box-shadow: 2px 2px 20px #999;
+}
+
+div {
+    background-color:#c7c3e2;
+    margin-left:225px;
+    margin-right:225px;
+    padding:20px;
+    border-radius:25px;
+    font-size:1.2em;
+    text-align: center;
+    box-shadow: 2px 2px 20px #999;
+}
